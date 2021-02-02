@@ -1,0 +1,1 @@
+I compiled using mpic++ on linux. The source has local includes so make sure to keep eigen around. eigen has dependencies that I don't check for but that should be installed on most systems. 
